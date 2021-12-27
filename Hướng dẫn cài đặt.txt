@@ -1,0 +1,4 @@
+Project trên sử dụng phần mềm Eclipse IDE
+B1: Import project ShopManagement vào Eclipse 
+B2: Import file database database_fshop.sql trong folder Database vào phpMyAdmin (tạo csdl trên javashop). Để xem chi tiết hãy vào file kết nối với database trong src/DAL/JDBCUtil.java
+B3: Khởi động phần mềm đăng nhập tài khoản (usename: luan | password: luan)
